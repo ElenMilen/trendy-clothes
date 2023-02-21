@@ -1,0 +1,51 @@
+.itemContent{
+    display:flex;
+    justify-content: center;
+    padding-top: 50px;
+    background-color: beige;
+
+}
+
+.itemDescription{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    width: 35%;
+}
+
+.itemImageDiv{
+    width: 35%;
+}
+.itemColors{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.colorDiv{
+    width: 50px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.itemSize{
+    display: flex;
+    gap: 25px;
+}
+
+.size{
+    border: 2px solid grey;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sizeActive{
+    border: 2px solid rgb(0, 0, 0);
+}
