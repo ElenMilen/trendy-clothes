@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trendy-clothes/static/css/main.9456bd26.css",
+    "main.js": "/trendy-clothes/static/js/main.29fe4e47.js",
+    "static/js/787.23170c61.chunk.js": "/trendy-clothes/static/js/787.23170c61.chunk.js",
+    "static/media/yellowDress.png": "/trendy-clothes/static/media/yellowDress.fc3e856f20932c7eb9da.png",
+    "static/media/polestar-red.png": "/trendy-clothes/static/media/polestar-red.e78fcea7735451384c6e.png",
+    "static/media/polestar-blue.png": "/trendy-clothes/static/media/polestar-blue.d5d7fd6a29b05a1ce367.png",
+    "static/media/polestar-green.png": "/trendy-clothes/static/media/polestar-green.ba21410e9bf86b6f9ac3.png",
+    "static/media/polestar-purple.png": "/trendy-clothes/static/media/polestar-purple.d6681b029ef6fabdf77e.png",
+    "static/media/brownLongsleeve.png": "/trendy-clothes/static/media/brownLongsleeve.8df0defac05378dcd2f8.png",
+    "static/media/redTop.webp": "/trendy-clothes/static/media/redTop.c6802e6375db538e29a6.webp",
+    "static/media/redLongsleeve.png": "/trendy-clothes/static/media/redLongsleeve.f8cb438721c669f48884.png",
+    "static/media/polestar-white.png": "/trendy-clothes/static/media/polestar-white.517126ad0f650003e908.png",
+    "index.html": "/trendy-clothes/index.html",
+    "main.9456bd26.css.map": "/trendy-clothes/static/css/main.9456bd26.css.map",
+    "main.29fe4e47.js.map": "/trendy-clothes/static/js/main.29fe4e47.js.map",
+    "787.23170c61.chunk.js.map": "/trendy-clothes/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9456bd26.css",
+    "static/js/main.29fe4e47.js"
+  ]
+}
